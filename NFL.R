@@ -7,7 +7,6 @@
 #install.packages('sqldf')
 
 #Included libraries
-#library('xml2')
 library(rvest)
 library(dplyr)
 library(ggplot2)
